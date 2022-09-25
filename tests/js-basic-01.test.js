@@ -46,7 +46,7 @@ TODO: Use the let keyword to declare a variable called myName and make sure you
 TODO: DO NOT assign it a value.
 */
 // * Add your code BELOW here
-let myName
+let myName;
 // * Don't mess with the test code below here!
 
 test('myName', () => {
@@ -91,7 +91,7 @@ TODO: the number literal value 7.
 */
 
 // * Add your code BELOW here
-const daysInWeek = 7
+const daysInWeek = 7;
 // * Don't mess with the test code below here!
 
 test('daysInWeek', () => {
@@ -131,7 +131,7 @@ TODO: of one variable to a different variable.
 
 // * Add your code BELOW here
 let myWorkDays;
-myWorkDays = daysInWeek
+myWorkDays = daysInWeek;
 // * Don't mess with the test code below here!
 
 test('myWorkDays', () => {
